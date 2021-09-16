@@ -69,3 +69,4 @@ docker-compose exec db_isolated psql -U postgres -d isolatedstore -f /tmp/dump-i
 
 > **Usuário:** user7@mailinator.com
 > **senha:**   password 
+# LGPD-compliant-website
